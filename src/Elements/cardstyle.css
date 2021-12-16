@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:regular,bold,italic&subset=latin,latin-ext');
+
+.customCard {
+    background-color: rgb(255, 255, 255);
+}
+
+.center {
+    margin: 0 auto; 
+    float: none; 
+    margin-bottom: 10px; 
+    margin-top:100px;
+}
+
+.color1 {
+    background-color: rgb(0, 0, 0);
+}
+
+.color2{
+    background-color: rgb(0, 0, 0);
+}
+
+.color3{
+    background-color: rgb(0, 0, 0);
+}
+
+.indviual {
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.hisWidth {
+    width: 500px;
+}
